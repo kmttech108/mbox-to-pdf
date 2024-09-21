@@ -1,5 +1,5 @@
-**Convert MBOX to PDF Effortlessly: A Quick Guide
-**
+Convert MBOX to PDF Effortlessly: A Quick Guide
+
 If you manage emails across multiple platforms, chances are you’ve come across the MBOX format. It’s widely used by email clients like Thunderbird, Apple Mail, and Postbox. However, MBOX files aren’t easily shareable or readable outside of these platforms. Converting them to PDF offers a more universal and secure way to store or share email content.
 
 Why Convert MBOX to PDF?

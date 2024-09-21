@@ -1,1 +1,1 @@
-# mbox-to-pdf
+MBOX to PDF Converter
